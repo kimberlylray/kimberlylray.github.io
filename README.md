@@ -1,2 +1,4 @@
 # kimberlylray.github.io
-Personal Website
+
+
+Learning to create my Personal Website
